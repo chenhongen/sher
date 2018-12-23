@@ -23,7 +23,7 @@
 
 IDE:
 
-- [飞冰](https://alibaba.github.io/ice/)；
+- demo前端使用[飞冰](https://alibaba.github.io/ice/)，你也可以选择你擅长的前端语言，因为handsontable已支持所有主流前端语言；
 - [ElasticSearch](https://www.elastic.co/products/elasticsearch);
 - Spring boot project runs in Eclipse/other java ide；
 
