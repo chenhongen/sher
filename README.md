@@ -7,6 +7,9 @@
 - 自定义表格使用Elastic Search挂载，可快速追溯查询PB级数据；
 - SHER=Springboot + Handsontable + Elasticsearch + React；是这里的项目demo，也是一种打破传统表格录入的思想。期待与你一同创新改变。
 
+
+![image](https://raw.githubusercontent.com/chenhongen/DemoRun/master/image/sher.gif)
+
 > 待办项:
 
 - [x] [Handsontable] 主键列 不可见；[解决hideColumns收费问题]；
